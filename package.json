@@ -1,0 +1,9 @@
+{
+  "name": "decentralized-governance-dao",
+  "version": "1.0.0",
+  "description": "On-chain DAO Governance system with Timelock",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
